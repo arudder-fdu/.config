@@ -74,4 +74,6 @@ ctrl + alt - q : brew services stop yabai
 ctrl + alt - s : brew services start yabai
 ctrl + alt - r : brew services restart yabai
 
+cmd - alt - return : open -na "Alacritty"
+cmd - o : open -na "Firefox"
 
